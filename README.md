@@ -32,8 +32,10 @@ My goal is to apply AI technologies that lead to a more sustainable and inclusiv
 <h2>Activicty</h2>
 
 * [2024.07 ~ 2024.10] **Google Machine Learning Bootcamp 2024 Korea**, Google for Developers.
-* KOSA NIPA-Google ML 부트캠프 협력 실무 4기 **대상*** (2024.11)
+* KOSA NIPA-Google ML 부트캠프 협력 실무 4기 **대상** (2024.11)
 * KOSA 빅테크 기업 해커톤 대회 **최우수상** (2024.12)
+* [2025.01 ~ 2025.02] LG Aimers 6기 수료
+  * [난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤](https://dacon.io/competitions/official/236452/overview/description) 794팀 중 75등, **상위 9%**
 
 <h2>Certificate</h2>
 
